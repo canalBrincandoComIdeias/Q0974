@@ -2,9 +2,9 @@
 
 **Seguidor de Linha com PICO** 
 
-Projeto do Vídeo Q0974 Série **_Maratona Maker_** powered by **_Petrobras_**
+Projeto do Vídeo Q0975 Série **_Maratona Maker_** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/gYNIVwBZxWw)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/-MULbOOb1vc)
 
 
 - Confira esse e outros projetos de Pico assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdXZPsliWfsWQu_ReiOFuv9)
